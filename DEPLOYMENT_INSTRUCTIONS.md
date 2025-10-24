@@ -1,4 +1,4 @@
-# VoteChain - Deployment Instructions
+# Solet - Deployment Instructions
 
 ## Smart Contract Deployment
 
